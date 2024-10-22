@@ -1,1 +1,1 @@
-# Streamli-cohere-langchain-projects
+# Streamlit-cohere-langchain-projects
