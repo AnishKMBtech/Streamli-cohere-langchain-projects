@@ -2,7 +2,7 @@ import streamlit as st
 import cohere
 
 # Initialize Cohere Client with your API key
-co = cohere.Client('Ko76cA3WuBPjFurTN166q55Pi2YlkQ3MWWeQSdgC')  # Replace with your actual API key
+co = cohere.Client('your_api_key')  # Replace with your actual API key
 
 # Function to get responses from Cohere model for Q&A
 def getCohereResponse(question, chat_history):
